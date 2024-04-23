@@ -1,5 +1,7 @@
 # Open-PUF-Collection
 
+PUF: physical unclonable function (See [explanation](https://people.csail.mit.edu/rudolph/Teaching/Lectures/Security/Lecture-Security-PUFs-2.pdf)).
+
 ## Opensource PUF source code
 
 The repositories below are collected for further investigation.
