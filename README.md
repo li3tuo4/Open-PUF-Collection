@@ -2,6 +2,10 @@
 
 ## Opensource PUF source code
 
+The repositories below are collected for further investigation.
+This collection of source code is **NOT** evaluated and tested by us yet. 
+If you know any good opensource PUF hardware or tools, you are welcome to send a pull request.
+
 - [Gabalo/RO_PUF](https://github.com/Gabalo/RO_PUF)
 - [stnolting/neoTRNG](https://github.com/stnolting/neoTRNG)
 - [stnolting/fpga_puf](https://github.com/stnolting/fpga_puf)
