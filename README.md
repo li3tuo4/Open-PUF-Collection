@@ -16,3 +16,4 @@ If you know any good opensource PUF hardware or tools, you are welcome to send a
 - [Tribler/software-based-PUF](https://github.com/Tribler/software-based-PUF)
 - [pkpio/securePUF](https://github.com/pkpio/securePUF)
 - [pedrorivera/OpenPUF](https://github.com/pedrorivera/OpenPUF)
+- [siamumar/BIST_PUF_TRNG](https://github.com/siamumar/BIST_PUF_TRNG)
